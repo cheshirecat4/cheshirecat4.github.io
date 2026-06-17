@@ -1516,7 +1516,7 @@ input, select, textarea {
 
 	img.photo {
 		margin: 2px;
-		width: 24%;
+		width: 33%;
 	}
 
 	ul.link-list li {
@@ -1739,7 +1739,7 @@ input, select, textarea {
 
 			img.photo {
 				margin: 1px;
-				width: 29%;
+				width: 33%;
 			}
 			
 		/* Header */
@@ -2035,8 +2035,8 @@ input, select, textarea {
 				}
 
 			img.photo {
-				margin: 2px;
-				width: 48%;
+				margin: 1px;
+				width: 49%;
 			}
 
 			ul.link-list {
